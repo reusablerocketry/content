@@ -1,5 +1,4 @@
-title: About
-author: jon-ross
+title: Welcome to the future of spaceflight
 
 Reusable Rocketry features original articles and media on reusability
 concepts, recoverable boosters, and reflyable spacecraft. The
