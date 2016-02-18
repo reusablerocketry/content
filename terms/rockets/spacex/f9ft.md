@@ -12,6 +12,7 @@ manufacturer: spacex
 configuration: f9ft-config-expendable
 configuration: f9ft-config-dpl
 configuration: f9ft-config-rtls
+rocket: f9v1.0
 
 The Falcon 9 Full Thrust (also called "F9FT", the "Falcon 9 v1.2", the
 "upgraded Falcon 9", and sometimes the "Falcon 9.2") is an upgraded
